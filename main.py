@@ -1,0 +1,1 @@
+print('Olá pessoal, Dão as Boas Vindas ao Domingos Santos, para mais um marujo no Django!!!')
